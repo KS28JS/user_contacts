@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "KS@050421",
+    "database": "Contacts",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "freezeTableName": true
+  }
+}
